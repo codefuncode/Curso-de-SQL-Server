@@ -1,0 +1,43 @@
+
+
+-- /////////////////////////////////
+if object_id('agenda') is not null drop table agenda;
+-- /////////////////////////////////
+
+-- ////////////////////////////////
+create table agenda(
+	apellido varchar(30),
+	nombre varchar(20),
+	domicilio varchar(30),
+	telefono varchar(11)
+);
+-- ////////////////////////////////
+
+
+-- /////////////////////////////////
+if object_id('agenda') is not null drop table agenda;
+-- /////////////////////////////////
+
+
+-- ////////////////////////////////////////////////
+--  Crear tabla si no existe
+if object_id('agenda') is null create table agenda(
+	apellido varchar(30),
+	nombre varchar(20),
+	domicilio varchar(30),
+	telefono varchar(11)
+);
+-- ////////////////////////////////////////////////
+
+
+-- ///////////////////////////////
+--  Ver tablas existentes 
+exec sp_tables @table_owner='dbo';
+-- ///////////////////////////////
+
+
+-- //////////////////////////////
+--  Ver estructura de una tabla 
+exec sp_columns agenda;
+-- //////////////////////////////
+
