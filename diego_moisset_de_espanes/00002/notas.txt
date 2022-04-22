@@ -1,0 +1,19 @@
+
+
+sp_columns
+https://docs.microsoft.com/es-es/sql/relational-databases/system-stored-procedures/sp-columns-transact-sql?view=sql-server-ver15
+
+OBJECT_ID (Transact-SQL)
+https://docs.microsoft.com/en-us/sql/t-sql/functions/object-id-transact-sql?view=sql-server-ver15
+
+sp_tables (Transact-SQL)
+https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-tables-transact-sql?view=sql-server-ver15#arguments
+
+sp_columns (Transact-SQL)
+https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-columns-transact-sql?view=sql-server-ver15
+
+Catalog Stored Procedures (Transact-SQL)
+https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/catalog-stored-procedures-transact-sql?view=sql-server-ver15
+
+Video
+https://www.youtube.com/watch?v=shvI7BByzII&list=PLIygiKpYTC_6_CGfKc2RlyHO9J442HI_z&index=2

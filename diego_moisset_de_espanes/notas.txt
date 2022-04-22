@@ -1,0 +1,17 @@
+
+
+Referencias 
+
+
+https://www.w3schools.com/sql/
+https://www.tutorialspoint.com/sql/index.htm
+https://www.sqltutorial.org/
+https://www.geeksforgeeks.org/sql-tutorial/
+https://docs.microsoft.com/en-us/sql/sql-server/tutorials-for-sql-server-2016?view=sql-server-ver15
+https://www.educba.com/data-science/data-science-tutorials/sql-tutorial/
+
+https://docs.microsoft.com/en-us/azure/azure-sql/?view=sql-server-ver15
+
+https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview?view=sql-server-ver15
+
+https://www.youtube.com/playlist?list=PLIygiKpYTC_6_CGfKc2RlyHO9J442HI_z
